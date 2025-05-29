@@ -85,3 +85,4 @@ Streamlit for frontend
 OpenAI for chatbot support
 
 Canva-style theme inspiration
+![Uploading 1.png…]()
