@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    testuser:
+      email: test@example.com
+      name: Test User
+      password: "$2b$12$abcdefghijk..."  # Use a hashed password
+
+cookie:
+  name: nutri_cookie
+  key: some_random_secure_key
+  expiry_days: 30
+
+preauthorized:
+  emails:
+    - test@example.com
+    - admin@nutri.com

@@ -1,0 +1,8 @@
+dharani:
+  daily: []
+  once: []
+dimpu:
+  daily: []
+  once:
+  - message: drink water
+    time: '18:45'

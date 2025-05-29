@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: some_secure_key
+  name: nutri_cookie
+credentials:
+  usernames:
+    dharani:
+      email: dharanisree@gmail.com
+      name: dharani pattapu
+      password: $2b$12$hx1Q9RtrU6aZAstVWTiIIuBrDHfR9Ed3sweKrqXnZO.KBEij.Fvwu
+    dimpu:
+      email: dimpu@gmail.com
+      name: dimpupattapu
+      password: $2b$12$/MwVG3Au9g/530VLrjDIN.xXv2aZ53KHuZo4hRYX0Mi1stzYrAhVG
